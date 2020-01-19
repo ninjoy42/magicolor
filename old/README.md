@@ -1,0 +1,2 @@
+# magicolor
+magicolor website
